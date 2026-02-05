@@ -1,5 +1,5 @@
 # 💫 About Me:
-Quality Analyst<br>DevOps Engineer<br>
+I’m currently working on ...Process Executive<br>I’m currently learning ...Multi Cloud with DevOPs<br>
 
 
 # 💻 Tech Stack:
