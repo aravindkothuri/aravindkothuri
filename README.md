@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on ...Process Executive<br>I’m currently learning ...Multi Cloud with DevOPs<br>
+I’m currently working on Process Executive<br>I’m currently learning devOps with Multi cloud<br>
 
 
 # 💻 Tech Stack:
